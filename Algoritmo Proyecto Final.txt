@@ -1,0 +1,19 @@
+Algoritmo Proyecto Final 
+
+Problema:
+
+Se necesita un programa para cotizar el precio de un seguro para incrementar la cantidad de cotizaciones realizadas cada dia.
+
+El valor de la cotizacion varia por recargos en base a la edad de la persona solicitando la cotizacion, la edad del conyuge si tiene, y la cantidad de hijos si tiene alguno(s).
+
+Algoritmo:
+
+- Determinar el precio base del seguro para cotizar.
+- Determinar que informacion se necesita para determinar los recargos que puedan aplicar.
+- Determinar los parametros de cada recargo que pueda aplicar.
+- Determinar el porcentaje sobre el precio base de cada recargo.
+- Recolertar la informacion de la persona interesada para determinar que recargos aplican
+- Calcular los recargos aplicables en base a la informacion recopilada
+- Sumar los recargos aplicables al precio base del seguro.
+- Mostrar el total de los cargos aplicables.
+- Mostrar el monto total de la cotizacion. 
