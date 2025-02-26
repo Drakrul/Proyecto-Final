@@ -1,0 +1,13 @@
+Algoritmo Puntos Extra Proyecto Final: 
+- Crear un loop que ejecute el programa de nuevo si el usuario ingresa "Si" o cerrar el programa     si ingresa "Salir" al mostrar la alerta al final del algoritmo.
+- Determinar las variables base a utilizar.
+- Determinar la variable del precio base de la cotización.
+- Determinar las variables que dan valor a los recargos.
+- Determinar las variables de cada recargo y precio final.
+- Crear mensajes de alerta para recopilar los datos necesarios y convertir los datos ingresados a números.
+- Comprobar si los datos ingresados aplican a recargo.
+- Calcular los recargos si hay aplicables y el recargo total en base a las entradas de datos.
+- Calcular el monto total de la cotización sumando el precio base mas el total de recargos que aplican.
+- Mostrar el total de los recargos aplicables.
+- Mostrar el monto total de la cotización. 
+- Mostrar alerta preguntando al usuario si desea crear otra cotización o salir del programa.

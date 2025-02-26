@@ -1,0 +1,3 @@
+Descripcion Del Problema "Puntos Extra-Proyecto Final"
+
+El programa base del proyecto final solamente permite el ingreso de una cotizacion, siendo imposible ingresar mas a menos que se vuelva a iniciar el programa desde zero manualmente. No contiene las variables, mensajes de entrada y operaciones aritmeticas necesarias para calcular recargos extra, basados en la cantidad de propiedades del asegurado y sobre el salario del mismo. 
